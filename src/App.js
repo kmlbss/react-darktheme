@@ -25,7 +25,7 @@ function App() {
       <div className="App" id={theme}>
         <Form />
         <div className="switch">
-          <label> {theme === "light" ? "Light Mode" : "Dark Mode"}</label>
+          <label> 1{theme === "light" ? "Light Mode" : "Dark Mode"}</label>
           <ReactSwitch onChange={toggleTheme} checked={theme === "dark"} />
         </div>
       </div>
