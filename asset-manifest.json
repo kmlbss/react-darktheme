@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-darktheme/static/css/main.8d42818c.css",
+    "main.js": "/react-darktheme/static/js/main.3b7bfac2.js",
+    "static/js/787.e02c4579.chunk.js": "/react-darktheme/static/js/787.e02c4579.chunk.js",
+    "index.html": "/react-darktheme/index.html",
+    "main.8d42818c.css.map": "/react-darktheme/static/css/main.8d42818c.css.map",
+    "main.3b7bfac2.js.map": "/react-darktheme/static/js/main.3b7bfac2.js.map",
+    "787.e02c4579.chunk.js.map": "/react-darktheme/static/js/787.e02c4579.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d42818c.css",
+    "static/js/main.3b7bfac2.js"
+  ]
+}
